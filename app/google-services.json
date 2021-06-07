@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738194051909",
+    "firebase_url": "https://pmp-project-f4cf5-default-rtdb.firebaseio.com",
+    "project_id": "pmp-project-f4cf5",
+    "storage_bucket": "pmp-project-f4cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738194051909:android:96996ca6de941b83b3242c",
+        "android_client_info": {
+          "package_name": "com.example.pmpproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738194051909-tbm2tf091ebsns5v22b2qtv6kpbgftgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1j1aTyVlOdXdxz0cxBFAiM6HWcRRFqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738194051909-tbm2tf091ebsns5v22b2qtv6kpbgftgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
